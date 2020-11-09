@@ -1,8 +1,8 @@
 # Arth-Team-Task-1
 This is a menu program which me and my team-mates has built and we have used a lot of different technologies in it using the python language. Docker,Hadoop,AWS,EC2,Jenkins,Rhel8 Commands
-menu.py is for rhel8 commands starting, stopping and checking status of httpd server, Downloading image from docker then launching a Container, Use of SSh
+menu.py :- is for rhel8 commands starting, stopping and checking status of httpd server, Downloading image from docker then launching a Container, Use of SSh
 and many more
-aws.py is for aws related commands
+aws.py:- is for aws related commands
 ec2.py :- Shows all EC2 Instances','Starts an EC2 Instance','Stops an EC2 Instance','Terminate an Instance','Create a New Key pair','Delete a Key Pair','Create a Security Group','Delete a Security Group','Launch New Instance','Create an EBS Volume','Delete an EBS Volume','Attach EBS Volume to an Instance','Detach an EBS Volume','List all EBS Volumes'
 docker.py :-  Performs these commands           
                         Enter 1 : Configure Docker
